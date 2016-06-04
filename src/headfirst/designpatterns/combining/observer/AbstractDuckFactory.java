@@ -1,5 +1,11 @@
 package headfirst.designpatterns.combining.observer;
 
+/**
+ * AbstractDuckFactory 
+ * abstract class which provides the necessary methods for DuckFactories 
+ * 
+ * @author Benedikt
+ */
 public abstract class AbstractDuckFactory {
  
 	public abstract Quackable createMallardDuck();
