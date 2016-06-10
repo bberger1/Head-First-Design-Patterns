@@ -3,6 +3,7 @@ package headfirst.designpatterns.combining.observer;
 /**
  * the quackCounter stays in track to count ducks, which quacked also prevents
  * method to get a specific duck identified by a number
+ * design pattern: observer pattern
  * 
  * @author Benedikt
  *

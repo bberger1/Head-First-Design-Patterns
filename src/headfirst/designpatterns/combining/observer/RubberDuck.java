@@ -2,6 +2,7 @@ package headfirst.designpatterns.combining.observer;
 
 /**
  * the rubberDuck implements Quackable, to define a specific output 
+ * design pattern: observer pattern
  * @author Benedikt
  */
 public class RubberDuck implements Quackable {

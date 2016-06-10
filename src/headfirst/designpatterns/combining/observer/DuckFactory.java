@@ -2,6 +2,7 @@ package headfirst.designpatterns.combining.observer;
 
 /**
  * creates the necessary ducks by calling the constructors and returning duck objects
+ * design pattern: concrete factory
  * @author Benedikt
  */
 public class DuckFactory extends AbstractDuckFactory {

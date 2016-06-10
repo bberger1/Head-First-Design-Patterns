@@ -2,6 +2,7 @@ package headfirst.designpatterns.combining.observer;
 
 /**
  * the gooseAdapter provides a goose which pretends to be a duck
+ * design pattern: adapter/proxy pattern
  * @author Benedikt
  */
 public class GooseAdapter implements Quackable {

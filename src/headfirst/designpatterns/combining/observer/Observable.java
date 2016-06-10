@@ -4,6 +4,7 @@ import java.util.Iterator;
 import java.util.ArrayList;
 
 /**
+ * design pattern: observer pattern
  * @author Benedikt
  */
 public class Observable implements QuackObservable {

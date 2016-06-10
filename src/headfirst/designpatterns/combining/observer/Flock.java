@@ -5,6 +5,7 @@ import java.util.ArrayList;
 
 /**
  * a flock is a group of ducks 
+ * design pattern: observer pattern
  * @author Benedikt
  */
 public class Flock implements Quackable {

@@ -3,6 +3,7 @@ package headfirst.designpatterns.combining.observer;
 /**
  * CountingDuckFactory 
  * enables the counting of quacks for the given ducks
+ * design pattern: concrete factory
  * @author Benedikt
  */
 public class CountingDuckFactory extends AbstractDuckFactory {

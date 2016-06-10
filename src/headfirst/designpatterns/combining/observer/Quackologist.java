@@ -2,6 +2,7 @@ package headfirst.designpatterns.combining.observer;
 
 /**
  * the quackologist detects a duck quarking and out prints the duck which quacked
+ * design pattern: observer pattern
  * @author Benedikt
  */
 public class Quackologist implements Observer {

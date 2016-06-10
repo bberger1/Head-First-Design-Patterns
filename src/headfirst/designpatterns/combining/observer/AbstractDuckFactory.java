@@ -3,6 +3,7 @@ package headfirst.designpatterns.combining.observer;
 /**
  * AbstractDuckFactory 
  * abstract class which provides the necessary methods for DuckFactories 
+ * design pattern: abstract factory
  * 
  * @author Benedikt
  */

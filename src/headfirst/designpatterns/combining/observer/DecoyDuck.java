@@ -3,6 +3,7 @@ package headfirst.designpatterns.combining.observer;
 /**
  * the decoyDuck has obviously no output, except silence 
  * implements Quackable, to define a specific output
+ * design pattern: observer pattern
  * @author Benedikt
  */
 public class DecoyDuck implements Quackable {

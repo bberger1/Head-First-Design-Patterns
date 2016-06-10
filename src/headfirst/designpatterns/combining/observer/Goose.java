@@ -2,6 +2,7 @@ package headfirst.designpatterns.combining.observer;
 
 /**
  * the goose prevents to be a duck, which works, thanks to gooseAdapter
+ * design pattern: adapter/proxy pattern
  * @author Benedikt
  */
 public class Goose {
